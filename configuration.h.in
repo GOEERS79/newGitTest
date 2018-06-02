@@ -1,0 +1,11 @@
+#define RESOURCES_PATH "@RESOURCES_PATH@"
+
+// the configured options and settings for MyProject
+#define MyProject_VERSION_MAJOR @Tutorial_VERSION_MAJOR@
+#define MyProject_VERSION_MINOR @Tutorial_VERSION_MINOR@
+
+#cmakedefine USE_LIBS
+
+// does the platform provide exp and log functions?
+#cmakedefine HAVE_LOG
+#cmakedefine HAVE_EXP
