@@ -1,6 +1,16 @@
 #include <iostream>
+#include <sstream>
+#include <vector>
 #include <string>
+#include <fstream>
+#include <new>
+#include <dlfcn.h>
+
+#include <utility>
+#include <algorithm>
+
 using namespace std;
+
 int main()
 {
 	
