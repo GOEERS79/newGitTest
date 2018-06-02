@@ -1,5 +1,7 @@
 #define RESOURCES_PATH "@RESOURCES_PATH@"
 
+//comment
+
 // the configured options and settings for MyProject
 #define MyProject_VERSION_MAJOR @Tutorial_VERSION_MAJOR@
 #define MyProject_VERSION_MINOR @Tutorial_VERSION_MINOR@
